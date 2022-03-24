@@ -1,3 +1,7 @@
+.header-conntainer{
+    background-color:#1C2B35;
+}
+
 .header{
     height: 80px;
     background-color:#1C2B35;
@@ -19,3 +23,13 @@
 .header a:hover{
     color: orange;
 }
+
+
+
+/* @media screen and (min-width:320px) {
+
+    .header-conntainer{
+        background-color:#248ed4;
+        width:100%;
+    }
+} */
