@@ -45,9 +45,21 @@ color: #0E161A;
     border-radius: 0px 0px 8px 8px;
     position: absolute;
     bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
+.btn-cart p{
+font-size:15px;
+}
+.cart-icon{
+    margin-left:5px;
+    font-size: 20px;
+    color:aquamarine;
+}
 .btn-cart:hover{
     background:orange;
+    cursor: pointer;
 
 }
